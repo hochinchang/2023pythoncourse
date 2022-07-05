@@ -1,0 +1,76 @@
+LCC_1000:
+  description: CWB LCC 1000x1000
+  projection:
+   proj:  lcc
+   lat_1: 30.0
+   lat_2: 60.0
+   lon_0: 128.5
+  shape:
+   height: 1000
+   width:  1000
+  area_extent:
+   lower_left_xy: [-3756724.329617232, 417598.18009775586]
+   upper_right_xy: [1876783.4435341065,6024050.1189276995]
+   units: m
+   
+LCC_1500:
+  description: CWB LCC 1000x1000
+  projection:
+   proj:  lcc
+   lat_1: 30.0
+   lat_2: 60.0
+   lon_0: 128.5
+  shape:
+   height: 1500
+   width:  1500
+  area_extent:
+   lower_left_xy: [-3756724.329617232, 417598.18009775586]
+   upper_right_xy: [1876783.4435341065,6024050.1189276995]
+   units: m
+
+   
+   
+TW_800:
+  description: Taiwan Area 800x800
+  projection:
+   proj:  laea
+   lat_0: 23.5
+   lon_0: 122.0
+  shape:
+   height: 800
+   width:  800
+  area_extent:
+   lower_left_xy: [-500000,-500000]
+   upper_right_xy: [500000,500000]
+   units: m
+   
+   
+EQC_1000:
+  description: Equidistant Cylindrical 1000x1000
+  projection:
+   proj:  eqc
+   lat_0: 20.0
+   lon_0: 120.0
+  shape:
+   height: 1000
+   width:  1000
+  area_extent:
+   lower_left_xy: [-1500000,-1500000]
+   upper_right_xy: [1500000,1500000]
+   units: m
+   
+H8FDK_2750:
+  description: Himawari 8 FDK
+  projection:
+   proj: geos
+   a:    6378169.0
+   b:    6356584.0
+   h:   35785831.0
+   lon_0: 140.7
+  shape:
+   height: 2750
+   width:  2750
+  area_extent:
+   lower_left_xy:  [-5568742.4, -5568742.4]
+   upper_right_xy: [5568742.4,5568742.4]
+
