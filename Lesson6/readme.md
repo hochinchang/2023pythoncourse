@@ -1,1 +1,1 @@
-![image](https://github.com/hochinchang/2022PythonCourse/blob/main/Lesson6/colartable.png){ width: 200px; }
+<img src="https://github.com/hochinchang/2022PythonCourse/blob/main/Lesson6/colartable.png" alt="drawing" style="width:400px;"/>
