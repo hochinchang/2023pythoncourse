@@ -9,10 +9,10 @@
 4. git clone 程式碼
 
 # 課程內容
-1. [Lesson0](./Lesson0/Lesson0.ipynb) 
-2. [Lesson1](./Lesson1) 
-3. [Lesson2](./Lesson2) 
-4. [Lesson3](./Lesson3) 
-5. [Lesson4](./Lesson4) 
-6. [Lesson5](./Lesson5) 
-7. [Lesson6](./Lesson6)
+1. [Lesson0](./Lesson0/Lesson0.ipynb) Python基本語法
+2. [Lesson1](./Lesson1/Lesson1.ipynb) 影像基本概念
+3. [Lesson2](./Lesson2/Lesson2.ipynb) 讀取PGM檔並繪製衛星雲圖
+4. [Lesson3](./Lesson3/Lesson3.ipynb) 使用2種衛星頻道，製作RGB合成雲圖
+5. [Lesson4](./Lesson4/Lesson4.ipynb) 雲圖投影設定
+6. [Lesson5](./Lesson5/Lesson5.ipynb) 雲圖投影設定2  
+7. [Lesson6](./Lesson6/Lesson6.ipynb) 色調強化雲圖
