@@ -7,3 +7,12 @@
    1. 安裝及使用git （課程中說明）
    2. 安裝及建之python環境（課程中說明，用mamba)
 4. git clone 程式碼
+
+# 課程內容
+1. [Lesson0](./Lesson0/Lesson0.ipynb) 
+2. [Lesson1](./Lesson1) 
+3. [Lesson2](./Lesson2) 
+4. [Lesson3](./Lesson3) 
+5. [Lesson4](./Lesson4) 
+6. [Lesson5](./Lesson5) 
+7. [Lesson6](./Lesson6)
