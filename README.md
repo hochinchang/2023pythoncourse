@@ -1,6 +1,7 @@
 # 2023pythoncourse 
 此課程主要是教如何畫一張衛星雲圖
-1. 課前準備，下載下列程式
+## 課前準備
+1. 下載下列程式
    1. git https://git-scm.com/download/win
    2. mambaforge https://conda-forge.org/miniforge/
 3. 安裝程式
@@ -8,7 +9,7 @@
    2. 安裝及建之python環境（課程中說明，用mamba)
 4. git clone 程式碼
 
-# 課程內容
+## 課程內容
 1. [Lesson0](./Lesson0/Lesson0.ipynb) Python基本語法
 2. [Lesson1](./Lesson1/Lesson1.ipynb) 影像基本概念
 3. [Lesson2](./Lesson2/Lesson2.ipynb) 讀取PGM檔並繪製衛星雲圖
