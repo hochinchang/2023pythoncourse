@@ -1,6 +1,7 @@
 # 2023pythoncourse 
 此課程主要是教如何畫一張衛星雲圖
 ## 課前準備
+[說明投影片](https://docs.google.com/presentation/d/1ZmeSg_rtY1cjtUMehht5_fvQbtBCRfTc/edit?usp=sharing&ouid=103885102919149558663&rtpof=true&sd=true)
 1. 下載下列程式
    1. git https://git-scm.com/download/win
    2. mambaforge https://conda-forge.org/miniforge/
