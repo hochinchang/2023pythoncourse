@@ -4,10 +4,11 @@
 [說明投影片](https://docs.google.com/presentation/d/1ZmeSg_rtY1cjtUMehht5_fvQbtBCRfTc/edit?usp=sharing&ouid=103885102919149558663&rtpof=true&sd=true)
 1. 下載下列程式
    1. git https://git-scm.com/download/win
-   2. mambaforge https://conda-forge.org/miniforge/
+   2. [git教學]（https://backlog.com/git-tutorial/tw/intro/intro2_1.html）
+   3. mambaforge https://conda-forge.org/miniforge/
 3. 安裝程式
    1. 安裝及使用git （課程中說明）
-   2. 安裝及建之python環境（課程中說明，用mamba)
+   3. 安裝及建之python環境（課程中說明，用mamba)
 4. git clone 程式碼
 
 ## 課程內容
