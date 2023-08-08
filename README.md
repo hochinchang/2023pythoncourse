@@ -21,5 +21,5 @@
 7. [Lesson6](./Lesson6/Lesson6.ipynb) 色調強化雲圖
 
 ## 補充內容
-1. [Lesson7](./Lesson6/lesson7.ipynb) 讀LCC的真實色雲圖
+1. [Lesson7](./Lesson7/lesson7.ipynb) 讀LCC的真實色雲圖
    因為高知大學提供的PGM資料少了2023年1-6月的VIS，所以改提供LCC的真實色雲圖做為專題的內容
